@@ -6,7 +6,7 @@ Este repositorio contiene un script en Bash diseñado para crear una estructura 
 
 El script realiza las siguientes tareas:
 
-1. **Verificación del directorio base**: Asegura que el directorio base `/home/kali/Auditorias` exista. Si no existe, lo crea.
+1. **Verificación del directorio base: El script comprueba si el directorio base /home/kali/Auditorias existe. En caso de que no esté presente, lo crea automáticamente. Recuerda modificar "kali" por el nombre de usuario correspondiente en tu sistema si es necesario.
    
 2. **Entrada del cliente/proyecto**: Solicita al usuario el nombre del cliente o proyecto para crear un directorio específico para esa auditoría.
 
