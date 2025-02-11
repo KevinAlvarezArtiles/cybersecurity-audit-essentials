@@ -30,7 +30,7 @@ Este script está diseñado para sistemas Linux, específicamente para ser utili
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/cybersecurity-audit-setup.git
+   https://github.com/KevinAlvarezArtiles/cybersecurity-audit-essentials.git
    cd cybersecurity-audit-setup
 
 2. **Ejecutar el script**:
